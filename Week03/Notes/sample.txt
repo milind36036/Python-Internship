@@ -1,0 +1,5 @@
+Hello
+Welcome to Python
+This is Week 3
+We are learning File Handling
+Python is easy
